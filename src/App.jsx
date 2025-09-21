@@ -6,7 +6,7 @@ import Navigation from './componets/Navigation/Navigation';
 
 function App() {
   return (
-    <div basename= "/formproject">
+    <div basename= "/formsproject">
       <Navigation/>
       <main className ='main_container'>
         <ContactHeader/>
